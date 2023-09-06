@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "kubernetes-fundamentals",
+			"path": "../Github Repos/kubernetes-fundamentals"
+		},
+		{
+			"name": "docker-fundamentals",
+			"path": "../Github Repos/docker-fundamentals"
+		}
+	],
+	"settings": {}
+}
